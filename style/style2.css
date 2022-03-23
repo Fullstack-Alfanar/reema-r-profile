@@ -1,0 +1,46 @@
+body{
+    background-color: aquamarine;  
+    
+} 
+
+.text{
+    color: #264653; 
+    font-family: 'Quintessential', cursive; 
+} 
+
+.Labels{ 
+    font-family: 'Inconsolata', monospace; 
+    color: #264653; 
+    font-size: medium; 
+    
+
+} 
+
+.input_design{
+    background-color: #CFDBD5; 
+    border: none;
+    border-radius: 20px; 
+    width: 250px; 
+    height: 30px;
+    padding-left: 5px;
+    
+} 
+
+.design_textarea{ 
+    background-color: #CFDBD5; 
+    border-radius: 20px;
+    padding-left: 10px; 
+    border: none;
+} 
+
+.button_design{
+    background-color: #E76F51; 
+    height: 30px; 
+    width: 60px; 
+    border-radius: 10px; 
+    border: none;
+} 
+
+.moving{
+    padding-top: 15px;
+}
